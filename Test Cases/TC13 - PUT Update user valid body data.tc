@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC13 - PUT Update user valid body data</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>287851ea-8e93-481f-bb07-d6a84d274366</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC11 - PUT Update name user with special character</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>00895004-6607-4519-8432-d4d927f94d81</testCaseGuid>
+</TestCaseEntity>

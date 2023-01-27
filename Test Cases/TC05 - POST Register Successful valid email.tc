@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC05 - POST Register Successful valid email</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f4380751-a3a3-4476-947e-7e3ab17905ae</testCaseGuid>
+</TestCaseEntity>

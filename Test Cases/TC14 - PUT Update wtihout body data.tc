@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC14 - PUT Update wtihout body data</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c79cda44-9eb8-4f41-ae62-4f1c4aaffabe</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC06 - POST Register Unsuccessful invalid email</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>4eb4c97f-2f18-4794-a020-d29beb2cdda5</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC04 - Get Single User with valid path</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c96b1369-408c-4d13-a728-bfaaf2631ec1</testCaseGuid>
+</TestCaseEntity>

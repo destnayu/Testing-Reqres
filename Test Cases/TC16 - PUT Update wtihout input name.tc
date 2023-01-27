@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC16 - PUT Update wtihout input name</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>8ba70eab-dd96-439f-b1e9-99ec26ccff7c</testCaseGuid>
+</TestCaseEntity>

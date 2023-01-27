@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC10 - PUT Update name user with number</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>9ca577b6-6a44-4080-8273-d7269c3c342e</testCaseGuid>
+</TestCaseEntity>
